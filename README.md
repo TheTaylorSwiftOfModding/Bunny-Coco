@@ -3,9 +3,6 @@ Turns the cute Cocomin put into an adorable white furred bunny with Pink clothes
 
 ![](https://i.gyazo.com/b86bd2b6ce0d73565fe005fbf3e84773.png) Follow this path and create a Mod folder called _Mods. Place the GPK file in there to install.
 
-https://drive.google.com/file/d/1CK67m0Pkb0dFeri8Vtz16TC5Af2pVl79/view?usp=sharing
-Use this link to download the nurse fit! (File to big for git hub)
-
 The mods also work with Unicast Aborean Apparel & Cosplayer ! ( I use unicast ) 
 
 Cosplayer:https://github.com/TeraProxy/Cosplayer 
